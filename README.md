@@ -16,3 +16,5 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+<img width="851" alt="Screen Shot 2022-03-15 at 11 59 32 PM" src="https://user-images.githubusercontent.com/82773432/158520143-d51d7538-429f-4e7b-8aeb-c656c9b5ce11.png">
